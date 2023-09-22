@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fragment_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_fragment_one"
+            android:title="Product Gallery" />
+        <item
+            android:id="@+id/nav_fragment_two"
+            android:title="Store" />
+        <item
+            android:id="@+id/nav_fragment_reports"
+            android:title="Reports" />
+        <item
+            android:id="@+id/nav_fragment_three"
+            android:title="Users" />
+        <item
+            android:id="@+id/nav_fragment_four"
+            android:title="Settings" />
+    </group>
+</menu>
